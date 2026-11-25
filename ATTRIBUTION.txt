@@ -1,0 +1,19 @@
+Автомобили Innerscene, оригинальные безымянные модели, CC0 1.0 (публичное достояние):
+Электрический хэтчбек: https://www.innerscene.com/tools/library/3d-parts/generic-electric-hatchback-6f7e33fa
+Кроссовер: https://www.innerscene.com/tools/library/3d-parts/generic-compact-suv-9f157ee5
+Купе: https://www.innerscene.com/tools/library/3d-parts/generic-two-door-coupe-f57c8670
+Универсал: https://www.innerscene.com/tools/library/3d-parts/generic-station-wagon-estate-car-dec07098
+Спорткар: https://www.innerscene.com/tools/library/3d-parts/generic-mid-engine-supercar-73f252c5
+Двигатель, Innerscene, CC0 1.0: https://www.innerscene.com/tools/library/3d-parts/four-cylinder-inline-piston-engine-assembled-bc359a0b — конвертирован из STEP в GLB, сгруппирован в узлы и адаптирован для учебной анимации; не является двигателем представленных автомобилей.
+
+Roadster 2026 reconstruction: Felix Zhang, https://github.com/felixtrz/roadster ; MIT license, Copyright (c) 2026 Felix Zhang. This is an independent reconstruction, not affiliated with Tesla. Changes: scale, interactive animation, wheel hub bolts and sidewall rings. See ROADSTER-MIT-LICENSE.txt.
+Studio Small 09 HDR: lone_monk, Poly Haven, CC0: https://polyhaven.com/a/studio_small_09
+Three.js, GLTFLoader and HDRLoader: MIT, https://github.com/mrdoob/three.js/blob/dev/LICENSE .
+Workshop and brake images: AI-generated for this project.
+
+BMW M4 Competition: 𝙎𝙍𝙏 𝙋𝙚𝙧𝙛𝙤𝙧𝙢𝙖𝙣𝙘𝙚™, CC BY 4.0: https://sketchfab.com/3d-models/bmw-m4-competition-m-package-5c0a2dafb1ad408d9fc9eeef9aee531b — изменены материалы и части колёс.
+Porsche 911 Carrera 4S: Lionsharp Studios, CC BY-SA 4.0: https://sketchfab.com/3d-models/free-porsche-911-carrera-4s-d01b254483794de3819786d93e0e1ebf — части колёс разделены для анимации; распространяется на тех же условиях.
+Audi Luxury Sedan: OUTPISTON, CC BY: https://www.get3dmodels.com/vehicles/audi-luxury-sedan/ — части колёс разделены для анимации.
+Названия марок принадлежат соответствующим правообладателям; сайт не является официальным.
+
+BMW X5 2018 (G05): BMW Car IT GmbH, CC BY 4.0, https://github.com/bmwcarit/digital-car-3d — части объединены в сцену, материалы и анимация адаптированы.
